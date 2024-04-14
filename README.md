@@ -156,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,reddust.link 
   - DOMAIN-SUFFIX,am.sb 
   - IP-CIDR,102.223.180.108/32 
-  - DOMAIN-KEYWORD  
   - DOMAIN-SUFFIX,stream1.misakaf.org 
   - DOMAIN-SUFFIX,stream2.misakaf.org 
   - DOMAIN-SUFFIX,stream3.misakaf.org
