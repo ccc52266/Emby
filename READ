@@ -1,5 +1,10 @@
 #Emby
 payload:
+  - PROCESS-NAME,com.hush.yamby,Emby
+  - PROCESS-NAME,com.mb.android.tg,Emby
+  - PROCESS-NAME,com.emby.embyserver,Emby
+  - PROCESS-NAME,com.mb.android,Emby
+  - PROCESS-NAME,com.mxtech.videoplayer.ad,Emby
   - DOMAIN-SUFFIX,emby.cn2gias.uk 
   - DOMAIN-SUFFIX,src-emby.cn2gias.uk 
   - DOMAIN-SUFFIX,post.cn2gias.uk 
