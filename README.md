@@ -1,5 +1,5 @@
 #Emby
-payloud:
+payload:
   - DOMAIN-SUFFIX,emby.cn2gias.uk 
   - DOMAIN-SUFFIX,src-emby.cn2gias.uk 
   - DOMAIN-SUFFIX,post.cn2gias.uk 
@@ -155,6 +155,7 @@ payloud:
   - DOMAIN-SUFFIX,stream1.misakaf.org 
   - DOMAIN-SUFFIX,stream2.misakaf.org 
   - DOMAIN-SUFFIX,stream3.misakaf.org
+  - DOMAIN-SUFFIX,stream4.misakaf.org
   - DOMAIN-SUFFIX,none.misakaf.org
   - DOMAIN-SUFFIX,evt.mxplay.com
   - DOMAIN-SUFFIX,emby.cn2gias.uk
