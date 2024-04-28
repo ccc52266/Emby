@@ -1,4 +1,5 @@
 #Emby
+payload:
 PROCESS-NAME,com.hush.yamby
 PROCESS-NAME,com.mb.android.tg
 PROCESS-NAME,com.emby.embyserver
