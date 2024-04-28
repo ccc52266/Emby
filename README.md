@@ -1,20 +1,23 @@
 #Emby
-PROCESS-NAME,com.hush.yamby,Emby
-PROCESS-NAME,com.mb.android.tg,Emby
-PROCESS-NAME,com.emby.embyserver,Emby
-PROCESS-NAME,com.mb.android,Emby
-PROCESS-NAME,com.mxtech.videoplayer.ad,Emby
+PROCESS-NAME,com.hush.yamby
+PROCESS-NAME,com.mb.android.tg
+PROCESS-NAME,com.emby.embyserver
+PROCESS-NAME,com.mb.android
+PROCESS-NAME,com.mxtech.videoplayer.ad
 DOMAIN-SUFFIX,emby.cn2gias.uk 
-DOMAIN-SUFFIX,src-emby.cn2gias.uk DOMAIN-SUFFIX,post.cn2gias.uk 
+DOMAIN-SUFFIX,src-emby.cn2gias.uk 
+DOMAIN-SUFFIX,post.cn2gias.uk 
 DOMAIN,95.216.38.145 
-DOMAIN-SUFFIX,emby.nexitally.com, Emby
+DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.cjpc.cc 
 DOMAIN-SUFFIX,emby.flowercloud.yt 
 DOMAIN-SUFFIX,emby.maying.club 
-DOMAIN-SUFFIX,emby.mdss.cloud DOMAIN-SUFFIX,emby.ytoo.li DOMAIN-SUFFIX,embyserver.ga 
+DOMAIN-SUFFIX,emby.mdss.cloud 
+DOMAIN-SUFFIX,emby.ytoo.li 
+DOMAIN-SUFFIX,embyserver.ga 
 DOMAIN-SUFFIX,emby.prprcloud.com 
 DOMAIN-SUFFIX,emby.nyancat.net 
-DOMAIN-SUFFIX,emby.plusmedia.site, Emby
+DOMAIN-SUFFIX,emby.plusmedia.site
 DOMAIN-SUFFIX,emby-cf.plusmedia.site 
 DOMAIN-SUFFIX,emby.xeton.dev 
 DOMAIN-SUFFIX,jellyfin.xeton.dev 
@@ -29,21 +32,25 @@ DOMAIN-SUFFIX,aws.jmsooo.com
 DOMAIN-SUFFIX,ntt1.jmsooo.com 
 DOMAIN-SUFFIX,hinet.jmsooo.com 
 DOMAIN-SUFFIX,cf1.jmsooo.com 
-DOMAIN-SUFFIX,pornemby.club DOMAIN-SUFFIX,emby.immtel.com 
+DOMAIN-SUFFIX,pornemby.club 
+DOMAIN-SUFFIX,emby.immtel.com 
 DOMAIN-SUFFIX,cf.odysseyplus.site 
 DOMAIN-SUFFIX,agahk.odysseyplus.site 
 DOMAIN-SUFFIX,agasg.odysseyplus.site 
 DOMAIN-SUFFIX,ru.odysseyplus.site 
 DOMAIN-SUFFIX,line.emby.men 
-DOMAIN-SUFFIX,emby.run DOMAIN-SUFFIX,emby.plusmedia.site 
+DOMAIN-SUFFIX,emby.run 
+DOMAIN-SUFFIX,emby.plusmedia.site 
 DOMAIN-SUFFIX,emby-cf.plusmedia.site 
 DOMAIN-SUFFIX,emby.xeton.dev 
-DOMAIN-SUFFIX,jellyfin.xeton.dev DOMAIN-SUFFIX,movie.xeton.dev 
+DOMAIN-SUFFIX,jellyfin.xeton.dev 
+DOMAIN-SUFFIX,movie.xeton.dev 
 DOMAIN-SUFFIX,servers.xeton.dev 
 DOMAIN-SUFFIX,jmsooo.com 
 DOMAIN-SUFFIX,cf.jmsooo.com 
 DOMAIN-SUFFIX,hk.jmsooo.com 
-DOMAIN-SUFFIX,sg.jmsooo.com DOMAIN-SUFFIX,emby.wtf 
+DOMAIN-SUFFIX,sg.jmsooo.com 
+DOMAIN-SUFFIX,emby.wtf 
 DOMAINOMAIN-SUFFIX,pub1back.emby.wtf 
 DOMAIN-SUFFIX,pub2back.emby.wtf 
 DOMAIN-SUFFIX,pub3back.emby.wtf 
@@ -58,19 +65,32 @@ DOMAIN-SUFFIX,emby.p-p.men
 DOMAIN-SUFFIX,emby.aiyowei.ml 
 DOMAIN-SUFFIX,poloemby.xyz 
 DOMAIN-SUFFIX,pololine.ml 
-DOMAIN-SUFFIX,gfwemby.org DOMAIN-SUFFIX,loseremby.org DOMAIN-SUFFIX,cc.ccemby.tk 
-DOMAIN-SUFFIX,direct.nebula-emby.com DOMAIN-SUFFIX,magpie.cyou DOMAIN-SUFFIX,ccemby.tk 
-DOMAIN-SUFFIX,embyplus.club DOMAIN-SUFFIX,speedx.one DOMAIN-SUFFIX,embymv.tk DOMAIN-SUFFIX,mjjemby.org DOMAIN-SUFFIX,bddup.com 
+DOMAIN-SUFFIX,gfwemby.org 
+DOMAIN-SUFFIX,loseremby.org 
+DOMAIN-SUFFIX,cc.ccemby.tk 
+DOMAIN-SUFFIX,direct.nebula-emby.com 
+DOMAIN-SUFFIX,magpie.cyou 
+DOMAIN-SUFFIX,ccemby.tk 
+DOMAIN-SUFFIX,embyplus.club 
+DOMAIN-SUFFIX,speedx.one 
+DOMAIN-SUFFIX,embymv.tk 
+DOMAIN-SUFFIX,mjjemby.org 
+DOMAIN-SUFFIX,bddup.com 
 DOMAIN-SUFFIX,emby.cl 
 DOMAIN-SUFFIX,emby.ml 
-DOMAIN-SUFFIX,nivod4.tv DOMAIN-SUFFIX,newpppp.com 
+DOMAIN-SUFFIX,nivod4.tv 
+DOMAIN-SUFFIX,newpppp.com 
 DOMAIN-SUFFIX,freetz.top 
-DOMAIN-SUFFIX,newwan.top DOMAIN-SUFFIX,shuipo.lol 
+DOMAIN-SUFFIX,newwan.top 
+DOMAIN-SUFFIX,shuipo.lol 
 DOMAIN-SUFFIX,dicarerhome.com 
 DOMAIN-SUFFIX,emby77.cf 
 DOMAIN-SUFFIX,embyplus.org 
-IP-CIDR,188.172.228.49/32 IP-CIDR,202.61.255.248/32 DOMAIN-SUFFIX,embytv.cf 
-DOMAIN-SUFFIX,zox.show DOMAIN-SUFFIX,acemby.org 
+IP-CIDR,188.172.228.49/32 
+IP-CIDR,202.61.255.248/32 
+DOMAIN-SUFFIX,embytv.cf 
+DOMAIN-SUFFIX,zox.show 
+DOMAIN-SUFFIX,acemby.org 
 DOMAIN-SUFFIX,bili.rip 
 DOMAIN-SUFFIX,ju.dog 
 DOMAIN-SUFFIX,misty.ltd 
@@ -79,7 +99,9 @@ DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,studyfun.live 
 DOMAIN-SUFFIX,charontv.com   
 DOMAIN-SUFFIX,gtlx.org 
-DOMAIN-SUFFIX,9191001.xyz DOMAIN-SUFFIX,carlos.trade DOMAIN-SUFFIX,agon.cf 
+DOMAIN-SUFFIX,9191001.xyz 
+DOMAIN-SUFFIX,carlos.trade 
+DOMAIN-SUFFIX,agon.cf 
 DOMAIN-SUFFIX,imetyou.top 
 DOMAIN-SUFFIX,goodisp.org 
 DOMAIN-SUFFIX,emby77.org 
@@ -100,7 +122,8 @@ DOMAIN-SUFFIX,push-kr.misakaf.org
 DOMAIN-SUFFIX,emby2.misakaf.org 
 DOMAIN-SUFFIX,123456.al 
 DOMAIN-SUFFIX,emby.pro 
-DOMAIN-SUFFIX,xiaoyi.one DOMAIN-SUFFIX,embymv.me 
+DOMAIN-SUFFIX,xiaoyi.one 
+DOMAIN-SUFFIX,embymv.me 
 DOMAIN-SUFFIX,infinityfly.top 
 DOMAIN-SUFFIX,lucasmedia.top 
 DOMAIN-SUFFIX,nvidia.rip 
@@ -132,7 +155,8 @@ DOMAIN-SUFFIX,ycxdy.top
 DOMAIN-SUFFIX,reddust.link 
 DOMAIN-SUFFIX,am.sb 
 IP-CIDR,102.223.180.108/32 
-DOMAIN-SUFFIX,stream1.misakaf.org DOMAIN-SUFFIX,stream2.misakaf.org 
+DOMAIN-SUFFIX,stream1.misakaf.org 
+DOMAIN-SUFFIX,stream2.misakaf.org 
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
 DOMAIN-SUFFIX,none.misakaf.org
