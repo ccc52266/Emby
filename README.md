@@ -1,10 +1,5 @@
 #Emby
 payload:
-  - PROCESS-NAME,com.hush.yamby
-  - PROCESS-NAME,com.mb.android.tg
-  - PROCESS-NAME,com.emby.embyserver
-  - PROCESS-NAME,com.mb.android
-  - PROCESS-NAME,com.mxtech.videoplayer.ad
   - DOMAIN-SUFFIX,emby.cn2gias.uk 
   - DOMAIN-SUFFIX,src-emby.cn2gias.uk 
   - DOMAIN-SUFFIX,post.cn2gias.uk 
@@ -163,3 +158,8 @@ payload:
   - DOMAIN-SUFFIX,none.misakaf.org
   - DOMAIN-SUFFIX,evt.mxplay.com
   - DOMAIN-SUFFIX,emby.cn2gias.uk
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mb.android.tg
+  - PROCESS-NAME,com.emby.embyserver
+  - PROCESS-NAME,com.mb.android
+  - PROCESS-NAME,com.mxtech.videoplayer.ad
