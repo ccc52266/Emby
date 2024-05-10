@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,none.misakaf.org
   - DOMAIN-SUFFIX,evt.mxplay.com
   - DOMAIN-SUFFIX,emby.cn2gias.uk
+  - PROCESS-NAME,com.attempt.afusekt
   - PROCESS-NAME,com.hush.yamby
   - PROCESS-NAME,com.mb.android.tg
   - PROCESS-NAME,com.emby.embyserver
