@@ -1,5 +1,8 @@
 #Emby
 payload:
+  - DOMAIN-SUFFIX,pub1.emby.wtf 
+  - DOMAIN-SUFFIX,pub2.emby.wtf 
+  - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,emby.cn2gias.uk 
   - DOMAIN-SUFFIX,src-emby.cn2gias.uk 
   - DOMAIN-SUFFIX,post.cn2gias.uk 
@@ -49,10 +52,7 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf 
   - DOMAINOMAIN-SUFFIX,pub1back.emby.wtf 
   - DOMAIN-SUFFIX,pub2back.emby.wtf 
-  - DOMAIN-SUFFIX,pub3back.emby.wtf 
-  - DOMAIN-SUFFIX,pub1.emby.wtf 
-  - DOMAIN-SUFFIX,pub2.emby.wtf 
-  - DOMAIN-SUFFIX,pub3.emby.wtf 
+  - DOMAIN-SUFFIX,pub3back.emby.wtf  
   - DOMAIN-SUFFIX,embyclub.com 
   - DOMAIN-SUFFIX,az-hk.embyclub.com 
   - DOMAIN-SUFFIX,azsgp.embyclub.com 
