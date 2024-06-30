@@ -1,11 +1,7 @@
 #Emby
 payload:
-  - PROCESS-NAME,com.attempt.afusekt
-  - PROCESS-NAME,com.hush.yamby
-  - PROCESS-NAME,com.mb.android.tg
-  - PROCESS-NAME,com.emby.embyserver
-  - PROCESS-NAME,com.mb.android
-  - PROCESS-NAME,com.mxtech.videoplayer.ad
+  - DOMAIN-KEYWORD,emby
+  - DOMAIN-SUFFIX,apopcloud.com
   - DOMAIN-SUFFIX,pub1.emby.wtf 
   - DOMAIN-SUFFIX,pub2.emby.wtf 
   - DOMAIN-SUFFIX,pub3.emby.wtf
@@ -158,3 +154,9 @@ payload:
   - DOMAIN-SUFFIX,am.sb 
   - IP-CIDR,102.223.180.108/32 
   - DOMAIN-SUFFIX,stream1.misakaf.org 
+  - PROCESS-NAME,com.attempt.afusekt
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mb.android.tg
+  - PROCESS-NAME,com.emby.embyserver
+  - PROCESS-NAME,com.mb.android
+  - PROCESS-NAME,com.mxtech.videoplayer.ad
