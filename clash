@@ -1,5 +1,11 @@
 #Emby
 payload:
+  - PROCESS-NAME,com.attempt.afusekt
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mb.android.tg
+  - PROCESS-NAME,com.emby.embyserver
+  - PROCESS-NAME,com.mb.android
+  - PROCESS-NAME,com.mxtech.videoplayer.ad
   - DOMAIN-SUFFIX,pub1.emby.wtf 
   - DOMAIN-SUFFIX,pub2.emby.wtf 
   - DOMAIN-SUFFIX,pub3.emby.wtf
