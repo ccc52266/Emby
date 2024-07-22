@@ -1,4 +1,5 @@
 #Emby
+DOMAIN-SUFFIX,cc.coemn.com
 DOMAIN-SUFFIX,pub1.emby.wtf 
 DOMAIN-SUFFIX,pub2.emby.wtf 
 DOMAIN-SUFFIX,pub3.emby.wtf
