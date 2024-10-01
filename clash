@@ -1,5 +1,6 @@
 #Emby
 payload:
+  - DOMAIN-SUFFIX,cfemby.lilyya.xyz
   - DOMAIN-KEYWORD,xiaoya
   - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,apopcloud.com
